@@ -74,7 +74,7 @@ void therapyFunc(){
                     therapyType=therapyType==0?1:0;
                 }
 
-                  if(currentItem==3){
+                if(currentItem==3){
                   suctionTherapyFunc();
                 }
               
